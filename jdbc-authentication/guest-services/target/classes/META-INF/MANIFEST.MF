@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: anujparmar
+Build-Jdk: 14.0.2
+Implementation-Title: guest-services
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.anuj.security
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/guest-services
+Created-By: Maven Integration for Eclipse
+

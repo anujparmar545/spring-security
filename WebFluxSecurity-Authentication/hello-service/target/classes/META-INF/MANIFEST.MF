@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: anujparmar
+Build-Jdk: 14.0.2
+Implementation-Title: hello-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.anuj.landon.security
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/hello-service
+Created-By: Maven Integration for Eclipse
+

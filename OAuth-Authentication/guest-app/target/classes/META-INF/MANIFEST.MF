@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: anujparmar
+Build-Jdk: 14.0.2
+Implementation-Title: guest-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.frankmoley.security
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/guest-app
+Created-By: Maven Integration for Eclipse
+
